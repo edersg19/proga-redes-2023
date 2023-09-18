@@ -1,0 +1,25 @@
+# Autor: Eder Gael Saldaña Galván
+# Fecha: 11 de septiembre del 2023
+# Descripción: Calculadora
+
+a = input("Ingresa el primer valor: ")
+b = input("Ingresa el segundo valor: ")
+print(type(a), type(b))
+print("Suma de valores de cadena")
+print("El resultado de la suma de los valores es: ", a + b)
+a = int(a)
+b = int(b)
+print(type(a), type(b))
+print("Operaciones de valores enteros")
+print("El resultado de la suma de los valores es: ", a + b)
+print("El resultado de la resta de los valores es: ", a - b)
+print("El resultado de la multiplicación de los valores es: ", a * b)
+print("El resultado de la división de los valores es: ", a / b)
+a = float(a)
+b = float(b)
+print(type(a), type(b))
+print("Operaciones de valores con decimales")
+print("El resultado de la suma de los valores es: ", a + b)
+print("El resultado de la resta de los valores es: ", a - b)
+print("El resultado de la multiplicación de los valores es: ", a * b)
+print("El resultado de la división de los valores es: ", a / b)
