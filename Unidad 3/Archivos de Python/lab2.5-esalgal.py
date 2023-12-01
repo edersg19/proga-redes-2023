@@ -1,3 +1,7 @@
+# Nombre: Eder Gael Saldaña Galván
+# Fecha: 24/Noviembre/2023
+# Laboratorio: 2.5
+
 import json
 import requests
 
