@@ -1,3 +1,7 @@
+# Nombre: Eder Gael Saldaña Galván
+# Fecha: 4/Diciembre/2023
+# Laboratorio: 2.9
+
 from ncclient import manager
 import xml.dom.minidom
 
